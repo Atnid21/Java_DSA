@@ -24,6 +24,7 @@ public class Learn_ArrayList {
             */
 
 
+        /*
         List<Integer> newList = new ArrayList<>();
         newList.add(150);
         newList.add(200);
@@ -60,6 +61,16 @@ public class Learn_ArrayList {
         while (it.hasNext()){
             System.out.println("iterator "+it.next());
         }
+        */
+
+
+
+
+
+
+
+
+
 
 
 
